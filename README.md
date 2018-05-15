@@ -42,3 +42,6 @@ She purchased recently (R=1), frequently buys (F=1), and spent the most (M=1).
 He has not purchased in a while (R=3), bought few (F=4), and spent little (M=4).
 3. <b>Anie Hettinger</b> is a type of "<b>Almost Lost Customer</b>" segment --<br/>
 She has not made a purchase for some time (R=3), she bought somewhat frequently (F=2), but she is in the group who spent the most (M=1).
+
+
+<b>Sources:</b> [Here](https://github.com/joaolcorreia/RFM-analysis)
